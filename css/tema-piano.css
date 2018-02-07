@@ -27,7 +27,7 @@
 				position:inherit;
 				float:left;
 				height:100%;
-				outline:#B16FF1 solid 2px;/*linea de contorno*/
+				outline:#000000 solid 2px;/*linea de contorno*/
 				background:#FFBFEC;
 				width:7.142856%;/*la medida se obtiene de dividir el 100% entre el numero de notas*/
 				}
@@ -38,6 +38,7 @@
 					float:left;
 					height:90%;
 					background-color:#B16FF1;
+					outline:#000000 solid 1px;
 				}
 				#doS {
 					margin-top:9%;
